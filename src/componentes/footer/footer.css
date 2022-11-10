@@ -1,0 +1,38 @@
+footer .footer-container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0;
+
+}
+footer .footer-container .images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer img{
+    width: 78px;
+    height: 78px;
+
+}
+
+footer .footer-container a{
+    text-decoration: none;
+    padding: 50px;
+    
+}
+
+
+footer .footer-container p{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    margin-top: 192px;
+    color: rgba(0, 0, 0, 0.69);
+    
+
+}
