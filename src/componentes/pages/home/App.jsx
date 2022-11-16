@@ -8,8 +8,6 @@ import lixao from '../../../Imagens/lixao-redonda.png'
 import praia from '../../../Imagens/praia-redondo.png'
 import praca from '../../../Imagens/praca-redondo.png'
 
-
-
 import Footer from '../../footer/footer'
 import Header from '../../header/header'
 
